@@ -26,8 +26,8 @@ Run using `lein repl`
 
 ## Result
 
-Using both `:ndarray` (core.matrix default) and `:vectorz` implementation (all using the same 
-initial thetas and same shuffled csv file)
+Using both `:ndarray` ([core.matrix](https://github.com/mikera/core.matrix) default) and `:vectorz` 
+implementation (all using the same initial thetas and same shuffled csv file)
 
 ```
 ndarray
