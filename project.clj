@@ -7,7 +7,7 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
 
                  ; neural networks
-                 [ronaldsuwandi/neuralnetworks "0.3.0-SNAPSHOT"]
+                 [ronaldsuwandi/neuralnetworks "0.3.0"]
 
                  ; csv handling
                  [org.clojure/data.csv "0.1.3"]
